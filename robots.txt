@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hardest-working-website-designer-coffs-harbour.chizsites.com/sitemap.xml
